@@ -19,5 +19,5 @@ modulo = num2 % num1
 end
 
 def square_root(num)
-num**num
+num**
 end
